@@ -18,7 +18,3 @@ frontend/build/
 *.log
 .idea/
 .vscode/
-
-# Large demo video (GitHub limit 100MB) - share via link instead
-*.mp4
-app-demo.mp4.mp4
