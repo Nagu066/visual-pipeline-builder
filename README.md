@@ -2,7 +2,7 @@
 
 A visual canvas for building and validating data pipelines. Drag-and-drop nodes, connect them with edges, and submit to verify your pipeline is a valid DAG (Directed Acyclic Graph). Built with React Flow and FastAPI.
 
-A screen recording demo is included in the repo (`app-demo.mp4.mp4`).
+A screen recording demo is included in the repo (`app-demo.mp4`).
 
 ## Features
 
