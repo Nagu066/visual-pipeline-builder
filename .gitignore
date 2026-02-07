@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.so
+.env
+.venv/
+
+# Build / IDE
+frontend/build/
+.DS_Store
+*.log
+.idea/
+.vscode/
+
+# Large demo video (GitHub limit 100MB) - share via link instead
+*.mp4
+app-demo.mp4.mp4
